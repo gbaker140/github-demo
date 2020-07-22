@@ -7,3 +7,4 @@
 7th line added to file
 8th line added to file in copyright branch
 9th line added to file in master
+10th line added to file in myfeature branch
