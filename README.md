@@ -5,4 +5,4 @@ added this 4th line
 added 5th line
 added 6th line in the add-copyright branch
 added 7th line in the simple-change branch (realwork branch addition)
-
+added 8th line for rebase example
