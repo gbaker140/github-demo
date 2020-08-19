@@ -9,3 +9,5 @@ added 8th line for rebase example - added this part  from github
 added 9th line for stash example from local repo
 added 10th line for stash example after 'stash apply' was performed
 added 11th line as part of lecture 65
+added 12th line as part of lecture 66 for multiple stashes
+added 13th line as part of lectur 67
