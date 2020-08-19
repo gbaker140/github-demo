@@ -8,3 +8,4 @@
 8th line added to file in copyright branch
 9th line added to file in master
 10th line added to file in myfeature branch
+11th line added to mergedemo.txt on master branch
