@@ -11,3 +11,4 @@ added 10th line for stash example after 'stash apply' was performed
 added 11th line as part of lecture 65
 added 12th line as part of lecture 66 for multiple stashes
 added 13th line as part of lectur 67
+added 14th line as part of lecture 72 (comparing tags)
